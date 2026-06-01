@@ -62,7 +62,7 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas que resolvem problem
 
 🌐 https://devthz.com
 
-📧 contato@devthz.com
+📲 +5519974186626
 
 ---
 
