@@ -49,11 +49,11 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas que resolvem problem
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnapolitano01&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnapolitano01&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mnapolitano01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnapolitano01&layout=compact&theme=github_dark)
 
 ---
 
