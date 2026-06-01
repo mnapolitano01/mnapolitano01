@@ -49,14 +49,6 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas que resolvem problem
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mnapolitano01&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnapolitano01&layout=compact&theme=github_dark)
-
----
-
 ## 🎯 Objetivos
 
 - Construir sistemas escaláveis
